@@ -1,0 +1,8 @@
+.parallax {
+  background-image: url("https://cdn.pixabay.com/photo/2020/08/09/14/25/business-5475661__340.jpg");
+  min-height: 550px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
